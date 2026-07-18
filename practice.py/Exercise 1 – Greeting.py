@@ -1,3 +1,4 @@
+#Ask the user for their name and greet them.
 def hello(name):
     print("Hello,", name, "!")
 
